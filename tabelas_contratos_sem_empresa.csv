@@ -1,0 +1,185 @@
+id_contrato,nome_contrato,objeto_contrato,valor_contrato,inicio_vigencia,termino_vigencia
+1,13/2012,Contratação de Empresa para Ministrar Curso de Inglês,94947.23,4,32
+2,Disp. Lic. 1,Prestação de serviço na confecção de Chaves,5234.0,13,33
+3,Disp. Lic. 2,Prestação de serviço na confecção de Carimbos,1800.0,10,33
+4,32/2014,Serviço de Telefônia Móvel,73915.08,6,33
+5,001/2014,Publicações no Diário Oficial da União,45000.0,8,35
+6,002/2014,Prestação de serviço de Copeiragem,385986.11,9,36
+7,003/2012,Manutenção Preventiva e Evolutiva Próton,47493.72,11,39
+8,001/2015,"Bilhetes de passagens aéreas, reservas, emissão e renovação",380574.23,12,41
+9,42064,Apoio administrativo 1 e 2,2043582.72,14,43
+10,Disp. Lic. 3,Assinatura do Jornal O Globo,1248.0,15,45
+11,41548,"Serviços de transporte terrestre de pessoas, por demanda em São Paulo- SP",214875.0,16,47
+12,008/2014,Publicações Legais,25000.0,17,49
+13,002/2015,Prestação de serviço de locação em tempo integral e eventual de veículos e condutores,523475.89,18,50
+14,009/2013,Prestação pela ECT de Serviços e Vendas de Produtos – ECT,188895.16,19,52
+15,004/2015,"Tradução e versão de textos, degravação e tradução/ interpretação simultânea",17601.56,20,54
+16,Disp. Lic. 4,Assinatura do Jornal Folha de São Paulo,2073.0,1,57
+17,19/2013, Serviços de Suporte Tecnológico ao Ambiente de TI da AEB.,1314444.09,23,59
+18,005/2015,Contratação de Estagiários,6847.68,24,61
+19,006/2015,Manutenção Preventiva e corretiva dos elevadores do Bloco A-,10990.0,25,62
+20,021/2014,Manutenção de Copiadoras,37680.0,25,62
+21,Disp. Lic. 5,Assinatura do Jornal O Vale,336.0,2,64
+22,40848,Serviços Gráficos,816053.75,26,65
+23,42217,Aquisição e instalação de pisos e revestimentos,129563.5,27,67
+24,23/2013,Serviço telefônico de longa distância nacional e internacional para aparelhos móveis funcionais,44837.3,28,68
+25,27/2013,Exames Médicos Periódicos,26499.9,30,70
+26,Disp. Lic. 6,Assinatura do Jornal Estado de São Paulo,358.8,31,71
+27,Disp.Lic. 7,Assinatura do Jornal Correio Braziliense,1220.0,7,73
+28,Disp. Lic. 8,Assinatura da Revista  Época,514.8,22,89
+29,Disp. Lic. 9,Assinatura de Jornais e Revistas – Veja,713.8,21,91
+30,29/2014,Aquisição de Licenças de Anti-Vírus,78550.0,3,102
+31,Disp. Lic. 10,Assinatura da Revista Isto É,1281.0,5,106
+32,009/2015,Aluguel de Container,24999.98,29,69
+33,27/2013,Exames Médicos Periódicos,26499.9,30,70
+34,Disp. Lic. 11,Assinatura do Jornal Estado de São Paulo,358.8,31,71
+35,Disp. Lic. 12,Prestação de serviço na confecção de Carimbos,1972.0,35,72
+36,Disp. Lic. 13,Prestação de serviço na confecção de Chaves,5324.0,34,72
+37,Disp.Lic. 14,Assinatura do Jornal Correio Braziliense,1220.0,7,73
+38,001/2014,Publicações no Diário Oficial da União,45000.0,36,75
+39,002/2014,Prestação de serviço de Copeiragem,416408.28,37,76
+40,003/2012,Manutenção Preventiva e Evolutiva Próton,52849.2,40,78
+41,003/2016,Empresa para Ministrar Curso de Inglês,92000.0,42,79
+42,001/2015,"Bilhetes de passagens aéreas, reservas, emissão e renovação",386765.62,42,79
+43,Disp. Lic. 15,Assinatura do Jornal O Globo,358.0,46,81
+44,42064,Apoio administrativo 1 e 2,2231331.32,44,80
+45,41548,"Serviços de transporte terrestre de pessoas, por demanda em São Paulo- SP",214875.0,48,82
+46,008/2014,Publicações Legais,25000.0,50,83
+47,002/2015,Prestação de serviço de locação em tempo integral e eventual de veículos e condutores,399409.02,51,84
+48,009/2013,Prestação pela ECT de Serviços e Vendas de Produtos – ECT,188895.16,53,85
+49,004/2015,"Tradução e versão de textos, degravação e tradução/ interpretação simultânea",17601.56,55,86
+50,004/16,Serviços de Telefonia Móvel (Celulares),67461.0,56,87
+51,Disp. Lic.  16,Assinatura da Revista  Época,514.8,22,89
+52,Disp. Lic. 17,Assinatura de Jornais e Revistas – Veja,713.8,21,91
+53,Disp. Lic. 18,Assinatura do Jornal Folha de São Paulo,358.8,58,92
+54,19/2013, Serviços de Suporte Tecnológico ao Ambiente de TI da AEB.,1396202.51,23,60
+55,005/2015,Contratação de Estagiários,6847.68,61,96
+56,006/2015,Manutenção Preventiva e corretiva dos elevadores do Bloco A-,10990.06,62,97
+57,021/2014,Manutenção de Copiadoras,37680.0,63,254
+58,006/2016,Transporto Rodoviário de Carga,282551.71,66,99
+59,29/2014,Aquisição de Licenças de Anti-Vírus,78550.0,3,103
+60,Disp. Lic. 19,Assinatura da Revista Isto É,1281.0,5,107
+61,Disp. Lic. 20,Aquisição de Solução de Firewall,85446.0,38,147
+62,Disp. Lic. 21,Prestação de serviço na confecção de Carimbos,1665.0,74,108
+63,Disp. Lic. 22,Assinatura do Jornal Correio Braziliense,604.2,77,111
+64,001/2014,Publicações no Diário Oficial da União,45000.0,75,112
+65,002/2014,Prestação de serviço de Copeiragem,408635.52,76,113
+66,001/2017,Empresa para Ministrar Curso de Inglês,215000.0,79,116
+67,001/2015,"Bilhetes de passagens aéreas, reservas, emissão e renovação",386765.62,79,116
+68,42064,Apoio administrativo 1 e 2,2252983.16,80,117
+69,002/2015,Prestação de serviço de locação em tempo integral e eventual de veículos e condutores,291192.0,83,119
+70,008/2014,Publicações Legais,25000.0,83,119
+71,009/2013,Prestação pela ECT de Serviços e Vendas de Produtos – ECT,188895.16,85,120
+72,004/16,Serviços de Telefonia Móvel (Celulares),67461.0,87,121
+73,Disp. Lic. 23,Assinatura da Revista  Época,358.8,90,122
+74,Disp. Lic. 24,Assinatura do Jornal Folha de São Paulo,358.8,93,123
+75,Disp. Lic. 25,Assinatura do Jornal O Globo,358.0,94,124
+76,19/2013, Serviços de Suporte Tecnológico ao Ambiente de TI da AEB.,1567853.24,95,127
+77,005/2015,Contratação de Estagiários,6847.68,96,129
+78,006/2015,Manutenção Preventiva e corretiva dos elevadores do Bloco A-,10990.06,97,130
+79,021/2014,Manutenção de Copiadoras,37680.0,98,131
+80,005/2016,Transporto Rodoviário de Carga,291056.51,99,134
+81,42856,Aquisição de solução de energia - nobreak,132991.5,100,135
+82,009/2015,Aluguel de Container,24999.98,104,137
+83,Disp. Lic. 26,Prestação de serviço na confecção de Chaves,4094.0,109,142
+84,Disp. Lic. 27,Assinatura do Jornal Estado de São Paulo,356.72,105,139
+85,Disp. Lic. 28,Aquisição de Solução de Firewall,85446.0,38,147
+86,Disp. Lic. 29,Assinatura de Jornais e Revistas – Veja,1248.0,88,161
+87,Disp. Lic. 30,Assinatura da Revista Isto É,1281.0,101,219
+88,Disp. Lic. 31,Prestação de serviço na confecção de Chaves,4094.0,109,142
+89,Disp. Lic. 32,Prestação de serviço na confecção de Carimbos,1015.0,110,142
+90,Disp. Lic. 33,Assinatura do Jornal Correio Braziliense,389.22,115,144
+91,001/2014,Publicações no Diário Oficial da União,45000.0,112,145
+92,002/2014,Prestação de serviço de Copeiragem,433021.38,113,146
+93,001/2017,Empresa para Ministrar Curso de Inglês,215000.0,114,148
+94,001/2015,"Bilhetes de passagens aéreas, reservas, emissão e renovação",386765.62,116,149
+95,42064,Apoio administrativo 1 e 2,2360465.16,117,151
+96,006/2018,Aquisição de solução de e-mail,61112.56,118,153
+97,002/2015,Prestação de serviço de locação em tempo integral e eventual de veículos e condutores,313773.55,119,154
+98,008/2014,Publicações Legais,25000.0,119,154
+99,007/2018,Prestação pela ECT de Serviços e Vendas de Produtos – ECT,25000.0,120,156
+100,004/16,Serviços de Telefonia Móvel (Celulares),67461.0,157,157
+101,Disp. Lic. 34,Assinatura da Revista  Época,418.8,160,159
+102,Disp. Lic. 35,Assinatura de Jornais e Revistas – Veja,1248.0,88,161
+103,Disp. Lic. 36,Assinatura do Jornal O Globo,358.8,125,162
+104,008/2018,Serviços de impressão gráfica e diagramação,957981.0,126,165
+105,009/2018, Serviços de Suporte Tecnológico ao Ambiente de TI da AEB.,1913251.94,128,166
+106,005/2015,Contratação de Estagiários,6955.18,129,167
+107,006/2015,Manutenção Preventiva e corretiva dos elevadores do Bloco A-,11482.8,130,168
+108,021/2014,Manutenção de Copiadoras,37680.0,131,169
+109,14/2018,Data Center,2885890.0,132,170
+110,15/2018,Prestação de Serviços de Remanejamento de Divisórias,261620.0,133,172
+111,005/2016,Transporto Rodoviário de Carga,306540.71,134,173
+112,Disp. Lic. 37,Assinatura do Jornal Folha de São Paulo,358.8,136,178
+113,Disp. Lic. 38,Assinatura do Jornal Estado de São Paulo,356.72,140,182
+114,25/2018,Contratção de empresa de vigilância,908177.28,141,183
+115,Disp. Lic. 39,Assinatura da Revista Isto É,1281.0,101,219
+116,24/2018,Solução de comunicação de Voz sobre IP,613257.0,138,162
+117,001/2017,Empresa para Ministrar Curso de Inglês,105000.0,148,187
+118,42064,Apoio administrativo I e II,2444445.49,150,190
+119,43525,Prestação de Serviço de Copeiragem,397831.77,152,191
+120,008/2019,"Bilhetes de passagens aéreas, reservas, emissão e renovação",398837.93,171,192
+121,002/2019,Publicações Legais,17000.0,155,195
+122,007/2018,Prestação pela ECT de Serviços e Vendas de Produtos – ECT,25000.0,156,196
+123,001/2019,Publicações no Diário Oficial da União,54000.0,143,253
+124,004/16,Serviços de Telefonia Móvel (Celulares),67461.0,157,197
+125,Disp. Lic. 40,Assinatura da Revista  Época,454.8,160,198
+126,05/2019.,Contratação de fornecedor de óleo diesel para abastecimento dos geradores de energia,11097.0,160,198
+127,007/2019,Serviços de engenharia e arquitetura para a elaboração de projetos de reforma e ampliação,323572.52,164,203
+128,008/2018,Serviços de impressão gráfica e diagramação,957981.0,165,204
+129,005/2015,Contratação de Estagiários,7401.01,167,210
+130,Disp. Lic. 41,Assinatura do Jornal O Globo,358.8,163,201
+131,009/2018, Serviços de Suporte Tecnológico ao Ambiente de TI da AEB.,2063698.28,166,209
+132,006/2015,Manutenção Preventiva e corretiva dos elevadores do Bloco A-,10990.06,168,213
+133,005/2016,Transporte Rodoviário de Carga,321469.24,173,215
+134,009/2019,Tranporte terrestre de servidores (TáxiGov),95807.3,175,217
+135,Disp. Lic. 42,Locação de Veículo,14950.0,250,251
+136,Disp. Lic. 43,Aquisição de Gasolina,4246.0,249,252
+137,Disp. Lic. 44,Assinatura da Revista Isto É,1281.0,101,219
+138,0010/2019,Solução de Back Up,1522056.0,177,220
+139,Disp. Lic. 45,Solução de Controle de Ponto,8802.6,180,223
+140,Inexigibilidade 1,Assinatura do Jornal Folha de São Paulo,358.8,179,221
+141,25/2018,Contratção de empresa de vigilância,328350.0,183,225
+142,Disp. Lic. 46,Assinatura do Jornal Estado de São Paulo,356.72,182,224
+143,Disp. Lic. 47,Prestação de serviço na confecção de Chaves,4740.0,184,226
+144,Disp. Lic. 48,Prestação de serviço na confecção de Carimbos,1225.0,184,226
+145,011/2019,Contratação de serviços de Secretariado Executivo/Bilingue,1857058.94,185,227
+146,012/2019,Contratação de serviços de Apoio Administrativo,5302511.16,186,228
+147,Disp. Lic. 49,Assinatura do Jornal Correio Braziliense,389.22,188,229
+148,Disp. Lic. 50,Assinatura de Jornais e Revistas – Veja,1455.84,158,236
+149,005/2016,Transporte Rodoviário de Carga,321469.24,173,215
+150,009/2019,Transporte terrestre de servidores (TáxiGov),95807.3,176,218
+151,Disp. Lic. 51,Assinatura da Revista Isto É,1281.0,101,219
+152,0010/2019,Solução de Back Up,1522056.0,177,220
+153,Disp. Lic. 52,Solução de Controle de Ponto,8802.6,180,223
+154,Inexigibilidade 2,Assinatura do Jornal Folha de São Paulo,358.8,179,221
+155,Disp. Lic. 53,Assinatura do Jornal O Globo,358.8,163,222
+156,25/2018,Contratação de empresa de vigilância,338910.24,183,225
+157,Disp. Lic. 54,Assinatura do Jornal Estado de São Paulo,356.72,182,224
+158,Disp. Lic. 55,Prestação de serviço na confecção de Chaves,4740.0,184,226
+159,Disp. Lic. 56,Prestação de serviço na confecção de Carimbos,1225.0,184,226
+160,Disp. Licic. 57,Fornecimento de água mineral natural ou potável,17550.0,191,226
+161,011/2019,Contratação de serviços de Secretariado Executivo/Bilingue,1857058.94,185,227
+162,012/2019,Contratação de serviços de Apoio Administrativo,5552088.6,186,228
+163,Disp. Lic. 58,Assinatura do Jornal Correio Braziliense,389.22,188,229
+164,002/2020,"Locação de veículo de representação, com fornecimento de combustível e motorista",149300.0,189,230
+165,004/2020,Agenciamento de viagens,1500056.82,193,231
+166,005/2020,Serviços de engenharia,32870.86,194,232
+167,002/2019,Publicações Legais,17000.0,195,233
+168,004/16,Serviços de Telefonia Móvel (Celulares),62780.6,197,235
+169,007/2018,Prestação pela ECT de Serviços e Vendas de Produtos – ECT,25000.0,196,234
+170,Disp. Lic. 59,Assinatura de Jornais e Revistas – Veja,1455.84,158,236
+171,Inexigibilidade 3,Assinatura da harvard Business Review Brasil,524.0,199,237
+172,007/2020,Serviço DaaS (Dados como Serviço),338815.92,200,238
+173,008/2020,Contratação de licenças com suporte e atualização da ferramenta Microsoft Power BI Pro,22087.24,200,238
+174,008/2018,Serviços de impressão gráfica e diagramação,718485.75,204,240
+175,Disp. Inex. 60,Assinatura da Revista  Época,454.8,206,206
+176,Disp. Lic. 61,"Assinatura de banco de imagens, vídeo e trilha sonora ",34950.0,202,239
+177,Disp. Lic. 62,Gestão e Avaliação de Desempenho,17592.0,205,241
+178,15/2020,Contratação de Estagiários,20160.0,211,245
+179,11/2020,Aquisição de materiais de consumo,68227.8,207,242
+180,13/2020,Contratação de serviços ofertados pelo SESI/Sistema FIBRA,134211.84,208,243
+181,009/2018, Serviços de Suporte Tecnológico ao Ambiente de TI da AEB.,2107768.42,209,244
+182,16/2020,Aquisição e Instalação de divisórias,5541773.0,212,246
+183,18/2020,Manutenção Preventiva e corretiva dos elevadores do Bloco A-,9600.0,213,247
+184,20/2020,Contratação de Serviço comum de engenharia,102600.0,214,248
